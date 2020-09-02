@@ -1,0 +1,14 @@
+PS D:\projects_vansh\module3\PROJ109> & C:/Users/HP/AppData/Local/Programs/Python/Python38-32/python.exe d:/projects_vansh/module3/PROJ109/StudentsPerformance.py
+Mean, Median and Mode of math score is 66.089, 66.0 and 65 respectively
+69.6% of data for math score lies between first standered deviation
+95.4% of data for math score lies between second standered deviation
+99.6% of data for math score lies between third standered deviation
+Mean, Median and Mode of reading score is 69.169, 70.0 and 72 respectively
+66.4% of data for reading score lies between first standered deviation
+95.4% of data for reading score lies between second standered deviation
+99.6% of data for reading score lies between third standered deviation
+Mean, Median and Mode of writing score is 68.054, 69.0 and 74 respectively
+68.8% of data for writing score lies between first standered deviation
+95.8% of data for writing score lies between second standered deviation
+99.6% of data for writing score lies between third standered deviation
+PS D:\projects_vansh\module3\PROJ109>
